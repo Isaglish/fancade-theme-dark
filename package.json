@@ -2,7 +2,7 @@
     "name": "fancade-theme-dark",
     "displayName": "Fancade Theme Dark",
     "description": "Theme made for Fancaders who also code other things and not just games. Also for those who likes the colors :)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "images/fancade-theme-dark-icon.jpg",
     "publisher": "Isaglish",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -10,7 +10,9 @@
         "type": "git",
         "url": "https://github.com/Isaglish/fancade-theme-dark"
     },
-    "themes": ["Themes"],
+    "themes": [
+        "Themes"
+    ],
     "galleryBanner": {
         "color": "1c1c28",
         "theme": "dark"
