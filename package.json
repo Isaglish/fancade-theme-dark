@@ -1,0 +1,34 @@
+{
+    "name": "fancade-theme-dark",
+    "displayName": "Fancade Theme Dark",
+    "description": "Theme made for Fancaders who also code other things and not just games. Also for those who likes the colors :)",
+    "version": "0.0.2",
+    "publisher": "Isaglish",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Isaglish/fancade-theme"
+    },
+    "keywords": [
+        "theme",
+        "fancade",
+        "isaglish",
+        "fancade theme dark",
+        "fancade theme",
+        "isaglish theme"
+    ],
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fancade Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fancade Theme Dark-color-theme.json"
+            }
+        ]
+    }
+}
