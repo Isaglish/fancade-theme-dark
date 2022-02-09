@@ -14,7 +14,7 @@
 - Updated package.json : desciption
 - Updated README.md
 
-### v.2.0.2
+### v.2.0.0
 - Edited the Screenshots
 - Edited Suggest Widget
     - Diff Editor
