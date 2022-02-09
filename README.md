@@ -7,6 +7,8 @@
     <br>
 </h1>
 
+<h3 align="center">Theme inspired by the application Fancade.</h3>
+
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/version-short/%20isaglish.fancade-theme-dark.svg" alt="Version"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/installs-short/%20isaglish.fancade-theme-dark.svg" alt="Installs"></a>
