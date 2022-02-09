@@ -29,3 +29,8 @@
     - Terminal Panel
     - Breadcrumb
     - Scroll Bars
+
+
+### v.2.0.1
+- Edited README badges
+- Added h5 element
