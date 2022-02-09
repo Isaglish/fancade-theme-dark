@@ -10,10 +10,10 @@
 <h3 align="center">Theme inspired by the application Fancade.</h3>
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark.svg"><img src="https://vsmarketplacebadge.apphb.com/version-short/Isaglish.fancade-theme-dark.svg" alt="Version"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark.svg"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Isaglish.fancade-theme-dark.svg" alt="Installs"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark.svg"><img src="https://vsmarketplacebadge.apphb.com/rating-short/Isaglish.fancade-theme-dark.svg" alt="Rating"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark.svg"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Isaglish.fancade-theme-dark.svg" alt="Downloads"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/version-short/Isaglish.fancade-theme-dark.svg" alt="Version"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Isaglish.fancade-theme-dark.svg" alt="Installs"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/rating-short/Isaglish.fancade-theme-dark.svg" alt="Rating"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Isaglish.fancade-theme-dark.svg" alt="Downloads"></a>
 </p>
 
 <h5 align="center">I made this theme because I really liked the colors of Fancade and since I use it most of the time, why not put its colors on another application I will be using a lot? I really like the purple and how it came out, hope you enjoy using this theme.</h5>
