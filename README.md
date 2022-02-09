@@ -14,8 +14,12 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/%20isaglish.fancade-theme-dark.svg" alt="Downloads"></a>
 </p>
 
-## Fancade Palette
-<img src="./images/Fancade_Palette.png" alt="palette">
 
 ## Theme Screenshots
-<img src="./images/fancade-theme-dark-screenshot.png">
+<img src="./images/fancade-theme-dark-screenshot.png" alt="screenshot">
+
+<img src="./images/fancade-theme-dark-showcase.png" alt="showcase">
+
+
+## Fancade Palette
+<img src="./images/Fancade_Palette.png" alt="palette">
