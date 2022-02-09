@@ -8,10 +8,10 @@
 </h1>
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/version-short/Fancade.svg" alt="Version"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Fancade.svg" alt="Installs"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/rating-short/Fancade.svg" alt="Rating"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Fancade.svg" alt="Downloads"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/version-short/%20isaglish.fancade-theme-dark.svg" alt="Version"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/installs-short/%20isaglish.fancade-theme-dark.svg" alt="Installs"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/rating-short/%20isaglish.fancade-theme-dark.svg" alt="Rating"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/%20isaglish.fancade-theme-dark.svg" alt="Downloads"></a>
 </p>
 
 ## Fancade Palette
