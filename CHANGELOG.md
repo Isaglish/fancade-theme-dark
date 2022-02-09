@@ -1,5 +1,9 @@
 # Change Log
 
+## v.2.0.4
+- Added colors and styles to some words
+- Added License badge
+
 ## v2.0.2 and v2.0.3
 - Fixed some issues with README and package.json
 
@@ -26,7 +30,7 @@
 ## v.1.0.2
 - Added badges
 - Added showcase image
-- Updated package.json : desciption
+- Updated package.json
 - Updated README.md
 
 ## v.1.0.1
