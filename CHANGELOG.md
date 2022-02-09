@@ -1,9 +1,15 @@
 # Change Log
 
-All notable changes to the "fancade-theme-dark" extension will be documented in this file.
+### v.1.0.0
+- Released the demo.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### v.1.0.1
+- Added screenshot
+- Updated README.md
 
-## [Unreleased]
 
-- Initial release
+### v.1.0.2
+- Added badges
+- Added showcase image
+- Updated package.json : desciption
+- Updated README.md
