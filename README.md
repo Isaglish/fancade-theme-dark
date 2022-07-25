@@ -11,9 +11,6 @@
 
 <h3 align="center">Theme inspired by the application <a href="https://play.fancade.com"><b>Fancade.</b></a></h3>
 
-<script id='fiverr-seller-widget-script-c59db41f-1a09-4e1a-aeac-fdc0e1123138' src='https://widgets.fiverr.com/api/v1/seller/isaglish?widget_id=c59db41f-1a09-4e1a-aeac-fdc0e1123138' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/version-short/Isaglish.fancade-theme-dark.svg" alt="Version"></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=Isaglish.fancade-theme-dark"><img src="https://vsmarketplacebadge.apphb.com/installs-short/Isaglish.fancade-theme-dark.svg" alt="Installs"></a>
